@@ -2,8 +2,8 @@
 
 ☎️ Contacts & Resume
 
-[![Gmail Badge]
-[![Linkedin Badge]
+![Gmail Badge]
+![Linkedin Badge]
 ![Notion]
 
 💼 Career
