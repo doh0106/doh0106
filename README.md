@@ -2,16 +2,19 @@
 
 ☎️ Contacts & Resume
 
-![Gmail Badge]
-![Linkedin Badge]
-![Notion]
+[mail Badge]
+[Linkedin Badge]
+[Notion]
+[velog]
 
 💼 Career
-* 2015.08 ~ 2018.02 covision: 그룹웨어 솔루션 제품개발 및 프로젝트 수행
-* 2020.01 ~ 2020.06 cubox: Face Recognition 관련 연구소
+* 2022.12 ~ 2023.06 : (주)알파코[누구나 AI] 딥러닝 부트캠프 - ML engineer, Data scientist 기본 과정 수료
+* 2023.07 ~ 2023.09 : Naver 인턴십 - Large LLM inference optimize, triton inference server 구축 등
 
 🏆 Awards
-* 2023 AI Connect 노트북으로 GPT 맛보기(과제: 한국어 문서 생성 요약) Public 1st🥇, Final 1st🥇 (BREADANDBUTTER🍷 팀)
+* 2023.07 : 생성형 AI를 활용한 상담지원 서비스 앱・웹 개발 공모전 우수상 수상(서울디지털재단, 서울특별시120다산콜재단 주최)
+*   [프로젝트]
+*   [기사]
 
 
 
