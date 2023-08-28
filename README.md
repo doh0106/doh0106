@@ -8,7 +8,7 @@
 
 [Notion]
 
-[velog]
+[velog](https://velog.io/@doh0106)
 
 💼 Career
 * 2022.12 ~ 2023.06 : (주)알파코[누구나 AI] 딥러닝 부트캠프 - ML engineer, Data scientist 기본 과정 수료
