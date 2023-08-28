@@ -3,8 +3,11 @@
 ☎️ Contacts & Resume
 
 [mail Badge]
-[Linkedin Badge]
+
+[Linkedin Badge](https://www.linkedin.com/in/도현-김-90b752285/)
+
 [Notion]
+
 [velog]
 
 💼 Career
