@@ -34,7 +34,7 @@
 #### 📑 Projects
 
 
-1. [AI 화상상담 챗봇](https://resonant-mapusaurus-297.notion.site/4e3945f73b1d4d078bda4e217114b8fa?pvs=4)
+1. [AI 화상상담 챗봇](https://github.com/suted2/AI_video_chatbot)
 
 기간 | 2023.04.24 ~ 2023.06.30
 ---|---------
