@@ -15,17 +15,17 @@
 * 서울대학교 기계공학과 학사 졸업
 
 #### 💼 Career
-* 2022.12 ~ 2023.06 : 알파코 딥러닝 부트캠프 5기 수료
+* 2022.12 ~ 2023.06 : 알파코 딥러닝 부트캠프 5기 수료 (975시간)
     - ML/DL engineer 과정 훈련
 * 2023.07 ~ 2023.09 :  네이버 인턴십 
     - LLM inference optimization
     - LLM latency, throughput check
-    - ONNX, TensorRT conversion
+    - LLM model ONNX, TensorRT conversion
     - Kubernetes 기반 triton inference server 구축 
 
 
 #### 🏆 Awards
-- 2023.06 : 알파코 딥러닝 부트캠프 5기 최우수 교육생 수상
+- 2023.06 : 알파코 딥러닝 부트캠프 5기 최우수 교육생 및 출석 우수자 수상
 - 2023.07 : 생성형 AI를 활용한 상담지원 서비스 앱・웹 개발 공모전 우수상 수상 (서울디지털재단, 서울특별시120다산콜재단 주최)
     - [프로젝트](https://github.com/suted2/AI_video_chatbot)
     - [기사링크](https://news.mt.co.kr/mtview.php?no=2023071312501551084)
