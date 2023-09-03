@@ -46,7 +46,7 @@
 
 <br>
 
-2. [객체탐지를 통한 차량 수리비 예측](https://resonant-mapusaurus-297.notion.site/4e3945f73b1d4d078bda4e217114b8fa?pvs=4)
+2. [객체탐지를 통한 차량 수리비 예측](https://github.com/doh0106/car-repair)
 
 기간 | 2023.03.31 ~ 2023.04.21
 ------------|---------
