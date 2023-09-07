@@ -29,6 +29,7 @@
     - vLLM model inference test 
     - Kubernetes 기반 triton inference server 구축
     - GPT-2 model Q-lora finetunine (peft)
+    - Prompt Tuning(chain of thought)을 통한 [korean opensource LLM](https://github.com/NomaDamas/awesome-korean-llm) inference 성능 향상 경험
 
 #### 🏆 Awards
 - 2023.06 : 알파코 딥러닝 부트캠프 5기 최우수 교육생 및 출석 우수자 수상
