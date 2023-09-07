@@ -26,8 +26,8 @@
     - LLM inference optimization
     - LLM latency, throughput check
     - LLM model ONNX, TensorRT conversion
-    - Kubernetes 기반 triton inference server 구축 
-
+    - Kubernetes 기반 triton inference server 구축
+    - GPT-2 model Q-lora finetunine (peft)
 
 #### 🏆 Awards
 - 2023.06 : 알파코 딥러닝 부트캠프 5기 최우수 교육생 및 출석 우수자 수상
