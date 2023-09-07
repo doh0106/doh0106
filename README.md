@@ -24,8 +24,9 @@
         - 장기 프로젝트 수행
 * 2023.07 ~ 2023.09 :  네이버 인턴십 
     - LLM inference optimization
-    - LLM latency, throughput check
-    - LLM model ONNX, TensorRT conversion
+    - LLM latency, throughput, concurrency check
+    - LLM model ONNX, TensorRT, FasterTransformer conversion & run
+    - vLLM model inference test 
     - Kubernetes 기반 triton inference server 구축
     - GPT-2 model Q-lora finetunine (peft)
 
